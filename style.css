@@ -108,7 +108,6 @@ section:nth-child(even) {
 
 #aboutme {
   min-height: 100vh;
-  max-height: 150vh;
   display: flex;
   flex-direction: column;
 }
